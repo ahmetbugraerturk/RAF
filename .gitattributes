@@ -1,3 +1,5 @@
-*.dart linguist=true
+*.* linguist-detectable=false
+*.dart linguist-detectable=true
+
 
 
