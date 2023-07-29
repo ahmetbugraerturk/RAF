@@ -8,11 +8,11 @@ void firebaseInit() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 }
-
+/*
 void main() async {
   runApp(const MyApp());
   firebaseInit();
-}
+}*/
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
