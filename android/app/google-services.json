@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "264034719694",
+    "project_id": "raf1app",
+    "storage_bucket": "raf1app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264034719694:android:c01d861121da95607b3d9f",
+        "android_client_info": {
+          "package_name": "com.genius.raf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264034719694-5chjn5pppdu4j3k18h2nnbka126e38l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBBzkKRz6YrkZWLR3xkFEfYYSEKTII50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264034719694-5chjn5pppdu4j3k18h2nnbka126e38l2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264034719694-3t9pqv8f52vp2v67v48o9j6k7u4pnjr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.genius.raf.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
